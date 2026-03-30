@@ -32,4 +32,4 @@ What Is NOT a Project
 
 - Routine maintenance
 
-Those are operations, not projects.
+These are operations, not projects.

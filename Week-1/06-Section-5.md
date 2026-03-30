@@ -9,7 +9,7 @@ Important facts:
 
 - There is no frontend
 
-- There is no backlog
+- There is no backlog (to-do list, lists of tasks to be carried out)
 
 - There is no sprint plan
 

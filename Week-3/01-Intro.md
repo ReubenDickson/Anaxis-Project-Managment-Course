@@ -4,9 +4,9 @@ In real jobs, project managers almost never start from a blank slate.
 
 Most software projects involve:
 
-- Existing systems
+- Existing systems (also called legacy systems)
 
-- Partially documented APIs
+- Partially documented APIs or no documentation at all
 
 - Decisions made before you arrived
 
