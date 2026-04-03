@@ -1,3 +1,5 @@
+WEEK 4: Requirements Gathering & User Analysis
+
 Week Objective
 
 Many software projects fail not because teams cannot build, but because they build the wrong thing.

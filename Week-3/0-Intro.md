@@ -1,3 +1,5 @@
+WEEK 3: Understanding the Existing System (Legacy System Analysis)
+
 Week Objective
 
 In real jobs, project managers almost never start from a blank slate.
