@@ -5,13 +5,19 @@ A user journey describes the steps a user takes to achieve a goal. It is a visua
 Example (Student):
 
 i. Logs in
+
 ii. Views available exams
+
 iii. Starts an exam
+
 iv. Submits answers
+
 v. Views results
 
 User journeys help you:
 
 i. Spot missing requirements
+
 ii. Identify edge cases
+
 iii. Understand system flow

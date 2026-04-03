@@ -12,7 +12,9 @@ Key Components of a User Persona:
 Personas help you answer:
 
 i. Who is using the system?
+
 ii. What do they care about?
+
 iii. What problems are they trying to solve?
 
 For the CBT system, you are not designing for “everyone.”
